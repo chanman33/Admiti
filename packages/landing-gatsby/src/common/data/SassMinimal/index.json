@@ -1,0 +1,388 @@
+{
+  "MENU_ITEMS": [
+    {
+      "label": "Home",
+      "path": "#banner_section",
+      "offset": "70"
+    },
+    {
+      "label": "Student LXP",
+      "path": "#feature_section",
+      "offset": "70"
+    },
+    {
+      "label": "Benefits",
+      "path": "#service_section",
+      "offset": "70"
+    },
+    {
+      "label": "FAQ",
+      "path": "#faq_section",
+      "offset": "70"
+    },
+    {
+      "label": "Contact",
+      "path": "#contact_section",
+      "offset": "70"
+    }
+  ],
+  "BANNER_DATA": [
+    {
+      "title": "Where Efficiency Meets \n Student-Centric Admissions",
+      "text": "Admiti is the best software platform to review applications for your college. Implement a streamlined and holistic approach to access extensive student data and make informed decisions.",
+      "image": "../../assets/image/sassMinimal/banner-image-1-1.png",
+      "btnLabel": "Learn More",
+      "btnLink": "#",
+      "offerText": "*Free consultation"
+    }
+  ],
+  "COMPANY_DATA": [
+    {
+      "image": "../../assets/image/sassMinimal/company-1-1.png"
+    },
+    {
+      "image": "../../assets/image/sassMinimal/company-1-2.png"
+    },
+    {
+      "image": "../../assets/image/sassMinimal/company-1-3.png"
+    },
+    {
+      "image": "../../assets/image/sassMinimal/company-1-4.png"
+    },
+    {
+      "image": "../../assets/image/sassMinimal/company-1-5.png"
+    }
+  ],
+  "FEATURE_DATA": [
+    {
+      "title": "Holistic Decision-Making",
+      "text": "Admitting the right students goes beyond mere academic scores. Analyze various facets of a student's profile like personal experiences and readiness to learn."
+    },
+    {
+      "title": "AI Chat Prompt Supported",
+      "text": "Enjoy student profile summarization and data queries with natural language support and analysis. Use chat prompts to engage with applicant data."
+    },
+    {
+      "title": "Streamline Your Workflow",
+      "text": "Automate repetitive processes, such as application review and annotations. Eliminate manual tasks and dedicate more time to engaging with applicants."
+    }
+  ],
+  "CUSTOMER_TRACKING": [
+    {
+      "tagline": "Student Learning Experience Platform (LXP)",
+      "heading": "Empower students with personalized learning journeys",
+      "content": "Enrich your student application data. Unlock the power of student-centric education with our LXP. \nEnable students to take control of their personal learning, explore their passions, and reach their full potential.",
+      "btnLabel": "Coming soon",
+      "btnLink": "#",
+      "image": "../../assets/image/sassMinimal/track-customer.png"
+    }
+  ],
+  "SERVICE_DATA": [
+    {
+      "image": "../../assets/image/sassMinimal/service-1-1.png",
+      "title": "Self-Directed Online Learning Development",
+      "content": "Your students knowledge is ever evolving and expanding. Convert nearly any piece of online content into a verifiable learning experience. "
+    },
+    {
+      "image": "../../assets/image/sassMinimal/service-1-2.png",
+      "title": "Engage with Current & Prospective Students",
+      "content": "Identify and connect with prospective applicants interested in your school or program."
+    },
+    {
+      "image": "../../assets/image/sassMinimal/service-1-3.png",
+      "title": "Thriving Learning Community",
+      "content": "Learning is a social experience, and our Student-Centric LXP fosters seamless collaboration and engagement."
+    },
+    {
+      "image": "../../assets/image/sassMinimal/service-1-4.png",
+      "title": "Improve Retention",
+      "content": "Understand your students academic readiness and engagement levels."
+    },
+    {
+      "image": "../../assets/image/sassMinimal/service-1-5.png",
+      "title": "Advisement Tools",
+      "content": "Dedicate more time to your students. Get insights on their passions, interests, and online learning."
+    },
+    {
+      "image": "../../assets/image/sassMinimal/service-1-6.png",
+      "title": "Data-Driven Insights",
+      "content": "Monitor milestones, track achievements, and identify areas for improvement with advanced analytics."
+    }
+  ],
+  "FEATURE_TWO_DATA": [
+    {
+      "image": "../../assets/image/sassMinimal/feature-2-1.png",
+      "title": "Smart Features",
+      "content": "We want to find smart solutions and enhance your decision making process."
+    },
+    {
+      "image": "../../assets/image/sassMinimal/feature-2-2.png",
+      "title": "Secure Contents",
+      "content": "We committed to data security and privacy (FERPA)"
+    }
+  ],
+  "TWITTER_DATA": [
+    {
+      "image": "../../assets/image/sassMinimal/twitter-1-1.png",
+      "name": "Jonathan Taylor",
+      "designation": "CEO at Creativex",
+      "content": "Whenever I need to create a new cool ecommerce site for clients, @redqteam is my solution is the best agency. We are super excited about it."
+    },
+    {
+      "image": "../../assets/image/sassMinimal/twitter-1-2.png",
+      "name": "Gavin Park",
+      "designation": "CEO at Orbital",
+      "content": "@redqteam is great for creating with landing pages within minutes! It then actually takes less time…"
+    },
+    {
+      "image": "../../assets/image/sassMinimal/twitter-1-3.png",
+      "name": "Betty Norton",
+      "designation": "Freelance Designer",
+      "content": "Whenever I need to create a new cool ecommerce site for clients, @redqteam is my solution is the best agency. We are super excited about it."
+    }
+  ],
+  "FOOTER_WIDGET": [
+    {
+      "title": "Support",
+      "menuItems": [
+        {
+          "url": "#",
+          "text": "Support Center"
+        },
+        {
+          "url": "#",
+          "text": "Student Support"
+        },
+        {
+          "url": "#",
+          "text": "Partners"
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "menuItems": [
+        {
+          "url": "#",
+          "text": "Team"
+        },
+        {
+          "url": "#",
+          "text": "Press inquiries"
+        },
+        {
+          "url": "#",
+          "text": "Social media"
+        }
+      ]
+    },
+    {
+      "title": "Policy",
+      "menuItems": [
+        {
+          "url": "#",
+          "text": "Privacy Policy"
+        },
+        {
+          "url": "#",
+          "text": "Terms & Conditions"
+        },
+        {
+          "url": "#",
+          "text": "FERPA"
+        }
+      ]
+    }
+  ],
+  "FAQ_DATA": [
+    {
+      "title": "Do you replace human readers or human decision making?",
+      "description": "While many universities already automate a part of their admission decisions, our software provides tools to empower informed human decision making. Our mission is to identify the students who are most likely to succeed."
+    },
+    {
+      "title": "Does your software integrate with my existing system?",
+      "description": "Our API-accessible and bi-directional infrastructure provides a modern and robust foundation. Integration capability depends on the system architecture already in place. We can dive deeper into the possibilities and have a more detailed discussion with your CIO/CTO."
+    },
+    {
+      "expend": true,
+      "title": "What's the implementation and training process like?",
+      "description": "We view every relationship as a long-term partnership, and prefer to walk before we run. We'll define realistic timelines and milestones, design best practices that fit your admission process and strategic goals, and support your team through training and onboarding."
+    }
+  ],
+  "MONTHLY_PRICING_TABLE": [
+    {
+      "isRecomended": false,
+      "name": "Starter Pack",
+      "price": "$8.93",
+      "priceLabel": "/mo",
+      "buttonLabel": "Create Account",
+      "url": "#",
+      "listItems": [
+        {
+          "isDisabled": false,
+          "content": "500 users"
+        },
+        {
+          "isDisabled": false,
+          "content": "Own analytics platform"
+        },
+        {
+          "isDisabled": false,
+          "content": "Unlimited links"
+        },
+        {
+          "isDisabled": false,
+          "content": "Chat promt supported"
+        },
+        {
+          "isDisabled": true,
+          "content": "Optimzed hashtags"
+        }
+      ]
+    },
+    {
+      "isRecomended": true,
+      "name": "Standard Pack",
+      "price": "$15.93",
+      "priceLabel": "/mo",
+      "buttonLabel": "Create Account",
+      "url": "#",
+      "listItems": [
+        {
+          "isDisabled": false,
+          "content": "Own analytics platform"
+        },
+        {
+          "isDisabled": false,
+          "content": "Unlimited links"
+        },
+        {
+          "isDisabled": false,
+          "content": "Chat promt supported"
+        },
+        {
+          "isDisabled": false,
+          "content": "Optimzed hashtags"
+        }
+      ]
+    },
+    {
+      "isRecomended": false,
+      "name": "For business enterprise",
+      "price": "Let’s Talk",
+      "priceLabel": "",
+      "buttonLabel": "Create Account",
+      "url": "#",
+      "listItems": [
+        {
+          "isDisabled": false,
+          "content": "10,000 users"
+        },
+        {
+          "isDisabled": false,
+          "content": "Own analytics platform"
+        },
+        {
+          "isDisabled": false,
+          "content": "Unlimited links"
+        },
+        {
+          "isDisabled": false,
+          "content": "Chat promt supported"
+        },
+        {
+          "isDisabled": false,
+          "content": "Optimzed hashtags"
+        }
+      ]
+    }
+  ],
+  "YEARLY_PRICING_TABLE": [
+    {
+      "isRecomended": false,
+      "name": "Starter Pack",
+      "price": "$40.43",
+      "priceLabel": "/yr",
+      "buttonLabel": "Create Account",
+      "url": "#",
+      "listItems": [
+        {
+          "isDisabled": false,
+          "content": "500 users"
+        },
+        {
+          "isDisabled": false,
+          "content": "Own analytics platform"
+        },
+        {
+          "isDisabled": false,
+          "content": "Unlimited links"
+        },
+        {
+          "isDisabled": false,
+          "content": "Chat promt supported"
+        },
+        {
+          "isDisabled": true,
+          "content": "Optimzed hashtags"
+        }
+      ]
+    },
+    {
+      "isRecomended": true,
+      "name": "Standard Pack",
+      "price": "$75.79",
+      "priceLabel": "/yr",
+      "buttonLabel": "Create Account",
+      "url": "#",
+      "listItems": [
+        {
+          "isDisabled": false,
+          "content": "Own analytics platform"
+        },
+        {
+          "isDisabled": false,
+          "content": "Unlimited links"
+        },
+        {
+          "isDisabled": false,
+          "content": "Chat promt supported"
+        },
+        {
+          "isDisabled": false,
+          "content": "Optimzed hashtags"
+        }
+      ]
+    },
+    {
+      "isRecomended": false,
+      "name": "For business enterprise",
+      "price": "Let’s Talk",
+      "priceLabel": "",
+      "buttonLabel": "Create Account",
+      "url": "#",
+      "listItems": [
+        {
+          "isDisabled": false,
+          "content": "10,000 users"
+        },
+        {
+          "isDisabled": false,
+          "content": "Own analytics platform"
+        },
+        {
+          "isDisabled": false,
+          "content": "Unlimited links"
+        },
+        {
+          "isDisabled": false,
+          "content": "Chat promt supported"
+        },
+        {
+          "isDisabled": false,
+          "content": "Optimzed hashtags"
+        }
+      ]
+    }
+  ]
+}
