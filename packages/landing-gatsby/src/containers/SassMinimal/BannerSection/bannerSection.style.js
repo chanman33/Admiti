@@ -10,7 +10,7 @@ export const BannerWrapper = styled.section`
     #d76d77 38.47%,
     #ffaf7b 98.62%
   );
-  margin-bottom: 135px;
+  margin-bottom: 155px;
 
   @media (max-width: 767px) {
     padding-top: 110px;

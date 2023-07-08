@@ -62,7 +62,7 @@ const FeatureTwoSection = () => {
           </Box>
           <Box className="column">
             <Fade right>
-              <GatsbyImage
+              <GatsbyImage className="analyticsImage"
                 src={
                   (Data.illustration !== null) | undefined
                     ? Data.illustration.childImageSharp.gatsbyImageData

@@ -30,7 +30,7 @@
     {
       "title": "Where Efficiency Meets \n Student-Centric Admissions",
       "text": "Admiti is the best software platform to review applications for your college. Implement a streamlined and holistic approach to access extensive student data and make informed decisions.",
-      "image": "../../assets/image/sassMinimal/banner-image-1-1.png",
+      "image": "../../assets/image/sassMinimal/banner-dashboard-1.png",
       "btnLabel": "Learn More",
       "btnLink": "#",
       "offerText": "*Free consultation"
@@ -69,12 +69,12 @@
   ],
   "CUSTOMER_TRACKING": [
     {
-      "tagline": "Student Learning Experience Platform (LXP)",
-      "heading": "Empower students with personalized learning journeys",
-      "content": "Enrich your student application data. Unlock the power of student-centric education with our LXP. \nEnable students to take control of their personal learning, explore their passions, and reach their full potential.",
+      "tagline": "LEARN - Student Learning Experience Platform (LXP)",
+      "heading": "Empower students with an open learning portfolio",
+      "content": "Unlock the power of student-centric education and enrich your application and advisement data. \nEnable students to take control of their personal learning, explore their passions, and reach their full potential.",
       "btnLabel": "Coming soon",
       "btnLink": "#",
-      "image": "../../assets/image/sassMinimal/track-customer.png"
+      "image": "../../assets/image/sassMinimal/track-student.png"
     }
   ],
   "SERVICE_DATA": [

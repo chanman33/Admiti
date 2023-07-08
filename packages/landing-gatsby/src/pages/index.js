@@ -38,7 +38,7 @@ const SaasMinimal = () => {
             </DrawerProvider>
           </Sticky>
           <BannerSection />
-          <Company />
+          {/* <Company /> */}
           <FeatureSection />
           <CustomerTracking />
           <ServiceSection />

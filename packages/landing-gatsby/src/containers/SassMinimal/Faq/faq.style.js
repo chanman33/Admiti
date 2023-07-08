@@ -20,9 +20,9 @@ export const FaqWrapper = styled.section`
   }
   .blockTitle {
     text-align: center;
-    margin-bottom: 63px;
+    margin-bottom: 30px;
     @media (max-width: 767px) {
-      margin-bottom: 33px;
+      margin-bottom: 8px;
     }
     h2 {
       margin: 0;

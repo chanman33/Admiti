@@ -91,6 +91,12 @@ export const FeatureTwoWrapper = styled.section`
     }
   }
 
+  .analyticsImage {
+    position: relative;
+    padding-top: 30px;
+    margin-top: 35px;
+  }
+
   .featureTwoBox {
     background: #ffffff;
     border: 1px solid #eae9f2;
