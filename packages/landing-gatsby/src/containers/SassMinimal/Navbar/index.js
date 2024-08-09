@@ -62,7 +62,7 @@ const Navbar = ({ navbarStyle, logoStyle, button, row, menuWrapper }) => {
               offset={-70}
             />
             <Link to="#" className="navbar_button">
-              <Button {...button} title="Have Project?" />
+              <Button {...button} title="Have A Project?" />
             </Link>
             <Drawer
               width="420px"
