@@ -1,3 +1,9 @@
+CW: 
+
+Admiti is a webdesign practice project based on an AI language tutor concept app. 
+
+Practice project using ReactJS and GatsbyJS. Customized a Themeforest template from SuperProps.
+
 # Installation
 
 After downloading the file from Themeforest, You will find SuperProps.zip file. Then unzip the SuperProps.zip and run the following commands on SuperProps folder to get started with the project.
