@@ -2,6 +2,8 @@ CW: Admiti is a based on AI enabled admissions software and student LXP.
 
 Webdesign practice project project using ReactJS, GatsbyJS, Vercel. Customized a Themeforest template from SuperProps.
 
+https://www.admiti.io/#
+
 Thanks,
 CW
 
